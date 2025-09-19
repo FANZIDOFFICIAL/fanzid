@@ -1,14 +1,20 @@
-[
-  {
-    "username": "admin",
-    "password": "admin123"
-  },
-  {
-    "username": "user1",
-    "password": "password123"
-  },
-  {
-    "username": "fanz",
-    "password": "12345"
-  }
-]
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "12345"
+    },
+    {
+      "username": "fanzid",
+      "password": "xp45"
+    },
+    {
+      "username": "tester",
+      "password": "abc123"
+    },
+    {
+      "username": "mod",
+      "password": "modpass"
+    }
+  ]
+}
