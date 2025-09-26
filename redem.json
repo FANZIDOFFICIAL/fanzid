@@ -1,4 +1,7 @@
 {
-  "code": "fanzvip2025",
-  "days": 10
+  "codes": [
+    { "code": "vip3hari", "days": 3 },
+    { "code": "vip10hari", "days": 10 },
+    { "code": "vip30hari", "days": 30 }
+  ]
 }
